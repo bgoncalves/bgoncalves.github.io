@@ -4,7 +4,7 @@ layout: page
 title: Bernardo Gonçalves
 excerpt: "Bernardo Gonçalves"
 tags: [Jekyll, theme, responsive, blog, template]
-#image: ![](images/bio1.jpeg)
+image: bio1.jpeg
 ---
 
 I am a scientist in AI and data science. Here's [my entry at DBLP](https://dblp.org/pid/35/1880.html).
