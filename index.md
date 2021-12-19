@@ -4,7 +4,7 @@ layout: page
 title: Bernardo Gonçalves
 excerpt: "Bernardo Gonçalves"
 tags: [Jekyll, theme, responsive, blog, template]
-image: bio1.jpeg
+image: bio-photo.jpeg
 ---
 
 I am a scientist in AI and data science. Here's [my entry at DBLP](https://dblp.org/pid/35/1880.html).
@@ -13,4 +13,3 @@ In the latest years I took a break from my computer science work, then at IBM Re
 
 Currently my research is centered on causal discovery and inference. My goal is to contribute to make the study of cause-effect relationships scalable and ready to be delivered to various industries. 
 
-![](images/bio1.jpeg)
