@@ -2,12 +2,12 @@
 
 title: Bernardo Gonçalves
 locale: en_US
-logo: bio-photo.jpg
+logo: bio-photo.jpeg
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Bernardo Gonçalves
-  avatar: bio-photo.jpg
+  avatar: bio-photo.jpeg
   bio: "Scientist in AI and data science"
   email: bgoncalves1@gmail.com
   # Do not include the @ symbol in your Twitter username
