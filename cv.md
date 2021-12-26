@@ -3,29 +3,30 @@ layout: resume
 ---
 ## Currently
 
-Postdoctoral Research Fellow @ __Escola Politécnica - Universidade de São Paulo__
+__Postdoctoral Research Fellow__ @ Escola Politécnica - Universidade de São Paulo
 
 ## Education
 
 `2018 - 2021`
-__Universidade de São Paulo__
-Ph.D. in Philosophy
+__Ph.D. in Philosophy__<br>
+Universidade de São Paulo
 
 `2015 - 2016`
-__University of Michigan__
-Postdoctoral Research Fellow 
+__Postdoctoral Research Fellow__<br>
+University of Michigan
 
 `2011 - 2015`
-__Laboratório Nacional de Computação Científica__
-Ph.D. in Computational Modeling 
+__Ph.D. in Computational Modeling__<br>
+Laboratório Nacional de Computação Científica (LNCC)
 
 `2007 - 2009`
-__Universidade Federal do ES__, 
-M.Sc. in Computer Science
+__M.Sc. in Computer Science__<br>
+Universidade Federal do Espírito Santo (UFES)
+
 
 `2002 - 2006`
-__Universidade Federal do ES__, 
-B.Sc. in Computer Science
+__B.Sc. in Computer Science__<br>
+Universidade Federal do Espírito Santo (UFES)
 
 
 ## Selected Awards
