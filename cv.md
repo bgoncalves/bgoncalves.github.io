@@ -49,7 +49,7 @@ IBM Ph.D. Fellowship Award, [IBM Research](http://www.research.ibm.com/universit
 ### Books
 
 `2022`
-_The Turing Test Argument_, London, NY: Routledge (to appear) 
+_The Turing Test Argument_. London, NY: Routledge (to appear) 
 
 ## Selected Refereed Publications
 
