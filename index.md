@@ -2,7 +2,7 @@
 layout: page
 #layout: default
 title: Bernardo Gonçalves
-excerpt: "Bernardo Gonçalves, Ph.D."
+excerpt: "D.Sc. Bernardo Gonçalves"
 tags: [theme, responsive, blog, template, Turing]
 image: bio-photo.jpeg
 ---
