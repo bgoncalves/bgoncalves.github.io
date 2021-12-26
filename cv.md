@@ -12,7 +12,7 @@ __Universidade de São Paulo__
 Ph.D. in Philosophy
 
 `2011 - 2015`
-__LNCC__
+__Laboratório Nacional de Computação Científica (LNCC)__
 Ph.D. in Computational Modeling 
 
 `2007 - 2009`
@@ -43,27 +43,27 @@ IBM Ph.D. Fellowship Award, [IBM Research](http://www.research.ibm.com/universit
 
 ### Books
 
-`20022`
-The Turing Test Argument, London, NY: Routledge (to appear) 
+`2022`
+_The Turing Test Argument_, London, NY: Routledge (to appear) 
 
 ## Selected Refereed Publications
 
 `2021'
-Can Machines Think? The Controversy that led to the Turing Test, AI & Society (to appear), DOI:[10.1007/s00146-021-01318-6](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"}
+"Can Machines Think? The Controversy that led to the Turing Test". _AI & Society_ (to appear), doi:[10.1007/s00146-021-01318-6](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"}
 
-The Future of AI: Neat or Scruffy?, In: Britto A., Valdivia Delgado K. (eds) Intelligent Systems. BRACIS 2021. Lecture Notes in Computer Science, vol 13074. Springer, DOI:[10.1007/978-3-030-91699-2_13](https://doi.org/10.1007/978-3-030-91699-2_13){:target="_blank"}
+"The Future of AI: Neat or Scruffy?". In: Britto A., Valdivia Delgado K. (eds) _Intelligent Systems_. BRACIS 2021. Lecture Notes in Computer Science, vol 13074. Springer, doi:[10.1007/978-3-030-91699-2_13](https://doi.org/10.1007/978-3-030-91699-2_13){:target="_blank"}
 
 `2018'
-Bsmooth: Learning from user feedback to disambiguate query terms in interactive data retrieval, International Journal of Approximate Reasoning, DOI:[10.1016/j.ijar.2018.06.003](https://doi.org/10.1016/j.ijar.2018.06.003){:target="_blank"}
+"Bsmooth: Learning from User Feedback to Disambiguate Query Terms in Interactive Data Retrieval". _International Journal of Approximate Reasoning_, doi:[10.1016/j.ijar.2018.06.003](https://doi.org/10.1016/j.ijar.2018.06.003){:target="_blank"}
 
 `2016'
-A note on the complexity of the causal ordering problem, Artificial Intelligence, DOI:[10.1016/j.artint.2016.06.004](https://doi.org/10.1016/j.artint.2016.06.004){:target="_blank"}
+"A note on the complexity of the causal ordering problem". _Artificial Intelligence_, doi:[10.1016/j.artint.2016.06.004](https://doi.org/10.1016/j.artint.2016.06.004){:target="_blank"}
 
 `2015'
-Managing Scientific Hypotheses as Data with Support for Predictive Analytics, Computing in Science & Engineering, DOI:[10.1109/mcse.2015.102](https://doi.org/10.1109/mcse.2015.102){:target="_blank"}
+"Managing Scientific Hypotheses as Data with Support for Predictive Analytics". _Computing in Science & Engineering_, doi:[10.1109/mcse.2015.102](https://doi.org/10.1109/mcse.2015.102){:target="_blank"}
 
 `2014'
-γ-DB: Managing scientific hypotheses as uncertain data, Proceedings of the Very Large Databases Endowment, DOI:[10.14778/2732967.2732971](http://doi.org/10.14778/2732967.2732971){:target="_blank"}
+"γ-DB: Managing scientific hypotheses as uncertain data". _Proceedings of the Very Large Databases Endowment_, doi:[10.14778/2732967.2732971](http://doi.org/10.14778/2732967.2732971){:target="_blank"}
 
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=udofaJwAAAAJ){:target="_blank"} -->
