@@ -11,7 +11,7 @@ Postdoctoral Research Fellow @ __Escola Politécnica - Universidade de São Paul
 __Universidade de São Paulo__
 Ph.D. in Philosophy
 
-`2015-2016`
+`2015 - 2016`
 __University of Michigan__
 Postdoctoral Research Fellow 
 
