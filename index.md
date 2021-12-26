@@ -7,7 +7,7 @@ tags: [theme, responsive, blog, template, Turing]
 image: bio-photo.jpeg
 ---
 
-I am a scientist, engineer and philosopher in AI and data science. Here's [my entry at DBLP](https://dblp.org/pid/35/1880.html){:target="_blank"}.
+I am a scientist, engineer and philosopher in AI and data science. Here's [DBLP entry](https://dblp.org/pid/35/1880.html){:target="_blank"}.
 
 As a permanent research scientist at IBM Research (2016-2020), I've worked in the design, development and delivery of AI systems, having contributed to large projects with oil & gas companies such as Galp Energy, Schlumberger and Grazprom Neft. 
 
