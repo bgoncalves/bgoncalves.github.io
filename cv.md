@@ -8,15 +8,15 @@ Postdoctoral Research Fellow @ Escola Politécnica - Universidade de São Paulo
 ## Education
 
 `2018 - 2021`
-__Universidade de São Paulo__, Faculdade de Filosofia, Letras e Ciências Humanas
+__Universidade de São Paulo__
 Ph.D. in Philosophy
 
-`2015-2016'
-__University of Michigan__, Computer Science Department
+`2015-2016`
+__University of Michigan__
 Postdoctoral Research Fellow
 
 `2011 - 2015`
-__Laboratório Nacional de Computação Científica (LNCC)__
+__Laboratório Nacional de Computação Científica__
 Ph.D. in Computational Modeling 
 
 `2007 - 2009`
