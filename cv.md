@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Postdoctoral Research Fellow @ Escola Politécnica - Universidade de São Paulo
+Postdoctoral Research Fellow @ __Escola Politécnica - Universidade de São Paulo__
 
 ## Education
 
@@ -13,7 +13,7 @@ Ph.D. in Philosophy
 
 `2015-2016`
 __University of Michigan__
-Postdoctoral Research Fellow
+Postdoctoral Research Fellow 
 
 `2011 - 2015`
 __Laboratório Nacional de Computação Científica__
