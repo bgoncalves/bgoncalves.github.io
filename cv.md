@@ -8,11 +8,11 @@ Postdoctoral Research Fellow @ Escola Politécnica - Universidade de São Paulo
 ## Education
 
 `2018 - 2021`
-__Universidade de São Paulo__
+__Universidade de São Paulo__, Faculdade de Filosofia, Letras e Ciências Humanas
 Ph.D. in Philosophy
 
 `2015-2016'
-__University of Michigan__
+__University of Michigan__, Computer Science Department
 Postdoctoral Research Fellow
 
 `2011 - 2015`
@@ -20,11 +20,11 @@ __Laboratório Nacional de Computação Científica (LNCC)__
 Ph.D. in Computational Modeling 
 
 `2007 - 2009`
-__Universidade Federal do ES__
+__Universidade Federal do ES__, 
 M.Sc. in Computer Science
 
 `2002 - 2006`
-__Universidade Federal do ES__
+__Universidade Federal do ES__, 
 B.Sc. in Computer Science
 
 
@@ -73,30 +73,15 @@ _The Turing Test Argument_, London, NY: Routledge (to appear)
 <!-- A list is also available [online](https://scholar.google.com/citations?user=udofaJwAAAAJ){:target="_blank"} -->
 
 
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+`2016-2020`
+__Permanent Research Scientist__, IBM Research 
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2021 -->
 
 
