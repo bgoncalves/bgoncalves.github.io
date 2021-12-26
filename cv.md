@@ -9,11 +9,11 @@ __Postdoctoral Research Fellow__ @ Escola Politécnica - Universidade de São Pa
 
 `2018 - 2021`
 __Ph.D. in Philosophy__<br>
-Universidade de São Paulo
+Universidade de São Paulo, Faculdade de Filosofia, Letras e Ciências Humanas
 
 `2015 - 2016`
 __Postdoctoral Research Fellow__<br>
-University of Michigan
+University of Michigan, Computer Science Department
 
 `2011 - 2015`
 __Ph.D. in Computational Modeling__<br>
