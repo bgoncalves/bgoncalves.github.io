@@ -77,6 +77,10 @@ _The Turing Test Argument_. London, NY: Routledge (to appear)
 
 ## Occupation
 
+`2021`
+__University Lecturer/Reader__, Escola Politécnica, Universidade de São Paulo<br>
+Graduate Course - "The Future of AI: from the Turing Test to Superintelligent Machines"
+
 `2016-2020`
 __Permanent Research Scientist__, IBM Research 
 
