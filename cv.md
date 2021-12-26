@@ -63,7 +63,7 @@ _The Turing Test Argument_, London, NY: Routledge (to appear)
 (with [H.V. Jagadish](https://web.eecs.umich.edu/~jag/){:target="_blank"}) "Bsmooth: Learning from User Feedback to Disambiguate Query Terms in Interactive Data Retrieval". _International Journal of Approximate Reasoning_, doi:[10.1016/j.ijar.2018.06.003](https://doi.org/10.1016/j.ijar.2018.06.003){:target="_blank"}
 
 `2016`
-(with [Fabio Porto](http://dexl.lncc.br/fabio-porto){:target="_blank"}) "A note on the complexity of the causal ordering problem". _Artificial Intelligence_, doi:[10.1016/j.artint.2016.06.004](https://doi.org/10.1016/j.artint.2016.06.004){:target="_blank"}
+"A note on the complexity of the causal ordering problem". _Artificial Intelligence_, doi:[10.1016/j.artint.2016.06.004](https://doi.org/10.1016/j.artint.2016.06.004){:target="_blank"}
 
 `2015`
 (with [Fabio Porto](http://dexl.lncc.br/fabio-porto){:target="_blank"}) "Managing Scientific Hypotheses as Data with Support for Predictive Analytics". _Computing in Science & Engineering_, doi:[10.1109/mcse.2015.102](https://doi.org/10.1109/mcse.2015.102){:target="_blank"}
