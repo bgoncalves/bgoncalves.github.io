@@ -42,7 +42,7 @@ Postdoctoral Fellowship Grant (Science without Borders Program), [National Resea
 `2013`
 IBM Ph.D. Fellowship Award, [IBM Research](http://www.research.ibm.com/university/awards/fellowships.html){:target="_blank"}
 
-`2020`
+`2013`
 "Strict A" (Aluno Nota 10) Ph.D. Fellowship Grant, [Carlos Chagas Filho Research Foundation (FAPERJ)](www.faperj.br){:target="_blank"}
 
 ### Books
