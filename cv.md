@@ -3,26 +3,48 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Postdoctoral Research Fellow @ Escola Politécnica - Universidade de São Paulo
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2018 - 2021`
+__Universidade de São Paulo__
+Ph.D. in Philosophy
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2011 - 2015`
+__Laboratório Nacional de Computação Científica__
+Ph.D. in Computational Modeling 
 
-## Awards
+`2007 - 2009`
+__Universidade Federal do Espírito Santo__
+M.Sc. in Computer Science
 
-`2012`
-Name of Award, Organization 
+`2002 - 2006`
+__Universidade Federal do Espírito Santo__
+B.Sc. in Computer Science
+
+
+## Selected Awards
+
+`2020`
+Postdoctoral Fellowship Grant, [São Paulo Research Foundation (FAPESP)](http://fapesp.br/en/postdoc)
+
+`2016`
+Nominated for the "Prêmio CAPES de Teses e Dissertações", LNCC
+
+`2014`
+Postdoctoral Fellowship Grant (Science without Borders Program), [National Research Council (CNPq)](www.cnpq.br)
+
+`2013`
+IBM Ph.D. Fellowship Award, [IBM Research](http://www.research.ibm.com/university/awards/fellowships.html)
+
+`2020`
+"Strict A" (Aluno Nota 10) Ph.D. Fellowship Grant, [Carlos Chagas Filho Research Foundation (FAPERJ)](www.faperj.br)
+
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=udofaJwAAAAJ) -->
 
 ### Journals
 
