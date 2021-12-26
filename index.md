@@ -13,5 +13,5 @@ As a permanent research scientist at IBM Research (2016-2020), I've worked in th
 
 In the latest years I slowed down my computer science work to study the Turing Test from the point of view of philosophy. (This led me to earn a Ph.D. in Philosophy from the University of São Paulo, Brazil, in March 2021. My first Ph.D. degree is in Computational Modeling from the National Laboratory for Scientific Computing, Brazil, 2015.) As a result of my philosophy work on Alan Turing's views about the mind-machine controversy and the future capabilities of machines, I am publishing the book _The Turing Test Argument_ (London, NY: Routledge, to appear in 2022). 
 
-Currently I'm getting back to my computer science work, which is centered on data-driven causal discovery and inference. My goal is to contribute to make the study of cause-effect relationships, which may be implicit in data, scalable and ready to be delivered to various industries. 
+Currently I'm getting back to my computer science work, which is centered on data-driven causal discovery and inference. Data, small and large, may hide cause-effect dependencies among variables. My goal is to contribute to make causal inference scalable and ready to be delivered to various industries. 
 
