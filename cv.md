@@ -52,9 +52,10 @@ _The Turing Test Argument_, London, NY: Routledge (to appear)
 
 ## Selected Refereed Publications
 
-`2021`
+`2022`
 "Can Machines Think? The Controversy that led to the Turing Test". _AI & Society_ (to appear), doi:[10.1007/s00146-021-01318-6](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"}
 
+`2021`
 (with [Fabio Cozman](http://sites.poli.usp.br/p/fabio.cozman/){:target="_blank"}) "The Future of AI: Neat or Scruffy?". In: Britto A., Valdivia Delgado K. (eds) _Intelligent Systems_. BRACIS 2021. Lecture Notes in Computer Science, vol 13074. Springer, doi:[10.1007/978-3-030-91699-2_13](https://doi.org/10.1007/978-3-030-91699-2_13){:target="_blank"}
 
 `2018`
