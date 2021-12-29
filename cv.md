@@ -55,10 +55,10 @@ _The Turing Test Argument_. London, NY: Routledge (to appear)
 ### Theses
 
 `2021`
-_Machines Will Think_: Structure and Interpretation of Alan Turing's Imitation Game. Faculdade de Filosofia, Letras e Ciências Humanas, USP, doi:[10.11606/T.8.2021.tde-10062021-173217](https://doi.org/10.11606/T.8.2021.tde-10062021-173217)
+_Machines Will Think_: Structure and Interpretation of Alan Turing's Imitation Game. Programa de Pós-Graduação em Filosofia, Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, doi:[10.11606/T.8.2021.tde-10062021-173217](https://doi.org/10.11606/T.8.2021.tde-10062021-173217)
 
 `2015`
-_Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_. Laboratório Nacional de Computação Científica, arXiv:[1501.05290](https://arxiv.org/abs/1501.05290)
+_Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_. Programa de Pós-Graduação em Modelagem Computacional, Laboratório Nacional de Computação Científica, arXiv:[1501.05290](https://arxiv.org/abs/1501.05290)
 
 
 ## Selected Refereed Publications
