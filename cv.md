@@ -71,6 +71,7 @@ _The Turing Test Argument_. London, NY: Routledge (to appear)
 `2014`
 (with [Fabio Porto](http://dexl.lncc.br/fabio-porto){:target="_blank"}) "γ-DB: Managing scientific hypotheses as uncertain data". _Proceedings of the Very Large Databases Endowment_, doi:[10.14778/2732967.2732971](http://doi.org/10.14778/2732967.2732971){:target="_blank"}
 
+`2011`
 (with [Giancarlo Guizzardi](https://www.unibz.it/en/faculties/computer-science/academic-staff/person/37428-giancarlo-guizzardi)) "Using an ECG reference ontology for semantic interoperability of ECG data". _Journal of Biomedical Informatics_, doi:[10.1016/j.jbi.2010.08.007](https://doi.org/10.1016/j.jbi.2010.08.007)
 Volume 44, Issue 1, February 2011, Pages 126-136
 
