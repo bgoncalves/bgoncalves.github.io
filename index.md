@@ -15,3 +15,4 @@ In the latest years I slowed down my computer science work to study the Turing T
 
 Currently I'm getting back to my computer science work, which is centered on data-driven causal discovery and inference. Data, small and large, may hide cause-effect dependencies among variables. My goal is to contribute to make causal inference scalable and ready to be delivered to various industries. 
 
+“Three things cannot be long hidden: the sun, the moon, and the truth”
