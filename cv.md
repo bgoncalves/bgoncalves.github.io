@@ -64,6 +64,8 @@ _Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_
 ## Selected Refereed Publications
 
 `2022`
+"Para roubar o fogo dos deuses: Alan Turing (1912-1954), Prometeu moderno" (to appear)
+
 "Can Machines Think? The Controversy that led to the Turing Test". _AI & Society_ (to appear), doi:[10.1007/s00146-021-01318-6](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"}
 
 `2021`
