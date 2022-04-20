@@ -7,7 +7,7 @@ tags: [theme, responsive, blog, template, Turing]
 image: bio-photo.jpeg
 ---
 
-I am a scientist and philosopher doing research in AI & machine learning, and their potentials and impacts in industry and society. My current project is entitled "The Future of AI: the Logical Structure of Alan Turing's Argument" (supported by The São Paulo State Research Foundation under [grant# 19/21489-4](http://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"}.
+I am a scientist and philosopher doing research in AI & machine learning, and their potentials and impacts in industry and society. My current project is entitled "The Future of AI: the Logical Structure of Alan Turing's Argument" (supported by The São Paulo State Research Foundation under grant# [19/21489-4](http://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"}.
 ). 
 
 I have been studying Alan Turing's contributions to the mind-machine controversy in England (1946-1952) and his views about the future capabilities of digital computers, which converged into the famous Turing Test. I am publishing the book _The Turing Test Argument_ (London, NY: Routledge, to appear in early 2023). 
