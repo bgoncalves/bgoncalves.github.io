@@ -74,6 +74,8 @@ _Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_
 `2018`
 (with [H.V. Jagadish](https://web.eecs.umich.edu/~jag/){:target="_blank"}) "Bsmooth: Learning from User Feedback to Disambiguate Query Terms in Interactive Data Retrieval". _International Journal of Approximate Reasoning_, doi:[10.1016/j.ijar.2018.06.003](https://doi.org/10.1016/j.ijar.2018.06.003){:target="_blank"}
 
+(with Joel Carbonera e Clarisse de Souza "O problema da explicação em Inteligência Artificial: considerações a partir da semiótica". _TECCOGS: Revista Digital de Tecnologias Cognitivas_, doi:[10.23925/1984-3585.2018i17p59-75](https://doi.org/10.23925/1984-3585.2018i17p59-75){:target="_blank"}
+
 `2016`
 "A note on the complexity of the causal ordering problem". _Artificial Intelligence_, doi:[10.1016/j.artint.2016.06.004](https://doi.org/10.1016/j.artint.2016.06.004){:target="_blank"}
 
