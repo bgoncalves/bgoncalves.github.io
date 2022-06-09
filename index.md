@@ -13,5 +13,5 @@ My current project is entitled "The Future of AI: the Logical Structure of Alan 
 
 As a permanent research scientist at IBM Research (2016-2020), I've worked in the design, development and deployment of AI systems, having contributed to large joint-development projects with oil & gas companies such as Galp Energy, Schlumberger and Grazprom Neft. 
 
-You can download my [CV in pdf](https://bgoncalves.github.io/bernardo-goncalves-cv.pdf/){:target="_blank"}. 
+You can download my [CV in pdf](https://bgoncalves.github.io/bernardo-goncalves-cv.pdf){:target="_blank"}. 
 
