@@ -13,7 +13,7 @@ My current project is entitled "The Future of AI: the Logical Structure of Alan 
 
 I've worked in the design, development and deployment of AI systems as a permanent research scientist at IBM Research (2016-2020), having contributed to large joint-development projects with oil & gas companies such as Galp Energy, Schlumberger and Grazprom Neft. 
 
-I earned my second Ph.D., then in Philosophy (2021, University of São Paulo), as a result of my career shift from computer science, the field in which I earned my other Ph.D. degree, in Computational Modeling (2015, National Laboratory for Scientific Computing), and my M.Sc. and B.Sc. degrees. Also, I'm a member of the Association for the History and Philosophy of Science of the Southern Cone ([AFHIC](http://www.afhic.com/){:target="_blank"}), and I've been a member of the Science, Technology & Society group _Scientiae Studia_ at the University of São Paulo (2017-2020). 
+I earned my second Ph.D., in Philosophy (2021, University of São Paulo), as a result of my career shift from computer science, the field in which I earned my other Ph.D. degree, in Computational Modeling (2015, National Laboratory for Scientific Computing), and my M.Sc. and B.Sc. degrees. Also, I'm a member of the Association for the History and Philosophy of Science of the Southern Cone ([AFHIC](http://www.afhic.com/){:target="_blank"}), and I've been a member of the Science, Technology & Society group _Scientiae Studia_ at the University of São Paulo (2017-2020). 
 
 My CV can be downloaded [here](https://bgoncalves.github.io/bernardo-goncalves-cv.pdf){:target="_blank"}. Thanks for visiting! 
 
