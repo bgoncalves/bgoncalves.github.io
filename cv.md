@@ -96,7 +96,7 @@ Volume 44, Issue 1, February 2011, Pages 126-136
 
 `2021`
 __University Lecturer/Reader__, Escola Politécnica, Universidade de São Paulo<br>
-Graduate Course - "The Future of AI: from the Turing Test to Superintelligent Machines"
+Graduate Course - "The Future of AI: from the Turing Test to Ultra-intelligent Machines"
 
 `2016-2020`
 __Permanent Research Scientist__, IBM Research 
