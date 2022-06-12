@@ -7,7 +7,7 @@ tags: [theme, responsive, blog, template, Turing]
 image: bio-photo.jpeg
 ---
 
-I am a scientist and philosopher specialized on the history and conceptual foundations of computing, AI & machine learning. My approach is analytical and historiographical. I have 10+ years of experience with AI systems and applications, and I observe closely the potentials and implications of AI & machine learning in society. 
+I am a scientist and philosopher specialized on the history and conceptual foundations of computing, AI & machine learning. My approach is analytical and historiographical. I have 10+ years of experience with AI theory, systems and applications, and I observe closely the potentials and implications of computing, AI & machine learning in society. 
 
 My current project is entitled "The Future of AI: the Logical Structure of Alan Turing's Argument" (supported by The São Paulo State Research Foundation under grant# 19/21489-4). I have been studying Alan Turing's contributions to the mind-machine controversy in England (1946-1952) and his views about the future capabilities of digital computers. These are articulated in the vivid image of the Turing Test, as detailed in my forthcoming book _The Turing Test Argument_ (London, NY: Routledge, under contract). My most recent working papers are 'The Turing Test is a Thought Experiment', and is ['Dystopian or Utopian? Two Images of Alan Turing'](http://philsci-archive.pitt.edu/20533/){:target="_blank"}.
 
