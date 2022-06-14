@@ -11,7 +11,7 @@ University of São Paulo, Polytechnic School
 ## Employment
 
 `2016-2020`
-__Permanent Research Scientist__
+__Permanent Research Scientist__<br>
 IBM Research 
 
 
