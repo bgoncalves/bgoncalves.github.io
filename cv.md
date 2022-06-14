@@ -12,7 +12,7 @@ University of São Paulo, Polytechnic School
 
 `2016-2020`
 __Permanent Research Scientist__<br>
-IBM Research 
+IBM Research Brazil
 
 
 ## Visiting Scholar
