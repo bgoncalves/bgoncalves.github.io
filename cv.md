@@ -5,15 +5,24 @@ layout: resume
 
 __Postdoctoral Research Fellow__ @ Escola Politécnica - Universidade de São Paulo
 
+## Employment
+
+`2016-2020`
+__Permanent Research Scientist__, IBM Research 
+
+
+## Visiting Scholar
+
+`2015 - 2016`
+__Postdoctoral Research Fellow__<br>
+University of Michigan, Computer Science Department
+
+
 ## Education
 
 `2018 - 2021`
 __Ph.D. in Philosophy__<br>
 Universidade de São Paulo, Faculdade de Filosofia, Letras e Ciências Humanas
-
-`2015 - 2016`
-__Postdoctoral Research Fellow__<br>
-University of Michigan, Computer Science Department
 
 `2011 - 2015`
 __Ph.D. in Computational Modeling__<br>
@@ -22,7 +31,6 @@ Laboratório Nacional de Computação Científica (LNCC)
 `2007 - 2009`
 __M.Sc. in Computer Science__<br>
 Universidade Federal do Espírito Santo (UFES)
-
 
 `2002 - 2006`
 __B.Sc. in Computer Science__<br>
@@ -91,16 +99,15 @@ Volume 44, Issue 1, February 2011, Pages 126-136
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=udofaJwAAAAJ){:target="_blank"} -->
 
-
-## Occupation
+## Courses Taught
 
 `2021`
 __University Lecturer/Reader__, Escola Politécnica, Universidade de São Paulo<br>
 Graduate Course - "The Future of AI: from the Turing Test to Ultra-intelligent Machines"
 
-`2016-2020`
-__Permanent Research Scientist__, IBM Research 
-
+`2008`
+__University Lecturer/Reader__, Computer Science Department, Universidade do Espírito Santo<br>
+Undergraduate Course - "Introduction to Computer Science"
 
 
 <!-- ### Footer
