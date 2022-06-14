@@ -3,7 +3,10 @@ layout: resume
 ---
 ## Currently
 
-__Postdoctoral Research Fellow__ @ Escola Politécnica - Universidade de São Paulo
+`2020 - present`
+__Postdoctoral Research Fellow__<br>
+University of São Paulo, Polytechnic School
+
 
 ## Employment
 
