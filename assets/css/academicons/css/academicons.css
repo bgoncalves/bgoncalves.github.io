@@ -118,6 +118,12 @@
 .ai-inspire-square:before {
     content: "\e931";
 }
+.ai-philpapers:before {
+  content: "\e98a";
+}
+.ai-philpapers-square:before {
+  content: "\e96f";
+}
 .ai-pubmed:before {
     content: "\e932";
 }
