@@ -26,415 +26,415 @@
   text-rendering: auto;
   line-height: 1;
 }
-.ai-academia:before {
+.ai-academia {
   content: "\e9af";
 }
-.ai-academia-square:before {
+.ai-academia-square {
   content: "\e93d";
 }
-.ai-acclaim:before {
+.ai-acclaim {
   content: "\e92e";
 }
-.ai-acclaim-square:before {
+.ai-acclaim-square {
   content: "\e93a";
 }
-.ai-acm:before {
+.ai-acm {
   content: "\e93c";
 }
-.ai-acm-square:before {
+.ai-acm-square {
   content: "\e95d";
 }
-.ai-acmdl:before {
+.ai-acmdl {
   content: "\e96a";
 }
-.ai-acmdl-square:before {
+.ai-acmdl-square {
   content: "\e9d3";
 }
-.ai-ads:before {
+.ai-ads {
   content: "\e9cb";
 }
-.ai-ads-square:before {
+.ai-ads-square {
   content: "\e94a";
 }
-.ai-africarxiv:before {
+.ai-africarxiv {
   content: "\e91b";
 }
-.ai-africarxiv-square:before {
+.ai-africarxiv-square {
   content: "\e90b";
 }
-.ai-archive:before {
+.ai-archive {
   content: "\e955";
 }
-.ai-archive-square:before {
+.ai-archive-square {
   content: "\e956";
 }
-.ai-arxiv:before {
+.ai-arxiv {
   content: "\e974";
 }
-.ai-arxiv-square:before {
+.ai-arxiv-square {
   content: "\e9a6";
 }
-.ai-biorxiv:before {
+.ai-biorxiv {
   content: "\e9a2";
 }
-.ai-biorxiv-square:before {
+.ai-biorxiv-square {
   content: "\e98b";
 }
-.ai-ceur:before {
+.ai-ceur {
   content: "\e96d";
 }
-.ai-ceur-square:before {
+.ai-ceur-square {
   content: "\e92f";
 }
-.ai-ciencia-vitae:before {
+.ai-ciencia-vitae {
   content: "\e912";
 }
-.ai-ciencia-vitae-square:before {
+.ai-ciencia-vitae-square {
   content: "\e913";
 }
-.ai-closed-access:before {
+.ai-closed-access {
   content: "\e942";
 }
-.ai-closed-access-square:before {
+.ai-closed-access-square {
   content: "\e943";
 }
-.ai-conversation:before {
+.ai-conversation {
   content: "\e94c";
 }
-.ai-conversation-square:before {
+.ai-conversation-square {
   content: "\e915";
 }
-.ai-coursera:before {
+.ai-coursera {
   content: "\e95f";
 }
-.ai-coursera-square:before {
+.ai-coursera-square {
   content: "\e97f";
 }
-.ai-crossref:before {
+.ai-crossref {
   content: "\e918";
 }
-.ai-crossref-square:before {
+.ai-crossref-square {
   content: "\e919";
 }
-.ai-cv:before {
+.ai-cv {
   content: "\e9a5";
 }
-.ai-cv-square:before {
+.ai-cv-square {
   content: "\e90a";
 }
-.ai-datacite:before {
+.ai-datacite {
   content: "\e91c";
 }
-.ai-datacite-square:before {
+.ai-datacite-square {
   content: "\e91d";
 }
-.ai-dataverse:before {
+.ai-dataverse {
   content: "\e9f7";
 }
-.ai-dataverse-square:before {
+.ai-dataverse-square {
   content: "\e9e4";
 }
-.ai-dblp:before {
+.ai-dblp {
   content: "\e94f";
 }
-.ai-dblp-square:before {
+.ai-dblp-square {
   content: "\e93f";
 }
-.ai-depsy:before {
+.ai-depsy {
   content: "\e97a";
 }
-.ai-depsy-square:before {
+.ai-depsy-square {
   content: "\e94b";
 }
-.ai-doi:before {
+.ai-doi {
   content: "\e97e";
 }
-.ai-doi-square:before {
+.ai-doi-square {
   content: "\e98f";
 }
-.ai-dryad:before {
+.ai-dryad {
   content: "\e97c";
 }
-.ai-dryad-square:before {
+.ai-dryad-square {
   content: "\e98c";
 }
-.ai-elsevier:before {
+.ai-elsevier {
   content: "\e961";
 }
-.ai-elsevier-square:before {
+.ai-elsevier-square {
   content: "\e910";
 }
-.ai-figshare:before {
+.ai-figshare {
   content: "\e981";
 }
-.ai-figshare-square:before {
+.ai-figshare-square {
   content: "\e9e7";
 }
-.ai-google-scholar:before {
+.ai-google-scholar {
   content: "\e9d4";
 }
-.ai-google-scholar-square:before {
+.ai-google-scholar-square {
   content: "\e9f9";
 }
-.ai-hal:before {
+.ai-hal {
   content: "\e92c";
 }
-.ai-hal-square:before {
+.ai-hal-square {
   content: "\e92d";
 }
-.ai-hypothesis:before {
+.ai-hypothesis {
   content: "\e95a";
 }
-.ai-hypothesis-square:before {
+.ai-hypothesis-square {
   content: "\e95b";
 }
-.ai-ideas-repec:before {
+.ai-ideas-repec {
   content: "\e9ed";
 }
-.ai-ideas-repec-square:before {
+.ai-ideas-repec-square {
   content: "\e9f8";
 }
-.ai-ieee:before {
+.ai-ieee {
   content: "\e929";
 }
-.ai-ieee-square:before {
+.ai-ieee-square {
   content: "\e9b9";
 }
-.ai-impactstory:before {
+.ai-impactstory {
   content: "\e9cf";
 }
-.ai-impactstory-square:before {
+.ai-impactstory-square {
   content: "\e9aa";
 }
-.ai-inaturalist:before {
+.ai-inaturalist {
   content: "\e900";
 }
-.ai-inaturalist-square:before {
+.ai-inaturalist-square {
   content: "\e901";
 }
-.ai-inpn:before {
+.ai-inpn {
   content: "\e902";
 }
-.ai-inpn-square:before {
+.ai-inpn-square {
   content: "\e903";
 }
-.ai-inspire:before {
+.ai-inspire {
   content: "\e9e9";
 }
-.ai-inspire-square:before {
+.ai-inspire-square {
   content: "\e9fe";
 }
-.ai-isidore:before {
+.ai-isidore {
   content: "\e936";
 }
-.ai-isidore-square:before {
+.ai-isidore-square {
   content: "\e954";
 }
-.ai-jstor:before {
+.ai-jstor {
   content: "\e938";
 }
-.ai-jstor-square:before {
+.ai-jstor-square {
   content: "\e944";
 }
-.ai-lattes:before {
+.ai-lattes {
   content: "\e9b3";
 }
-.ai-lattes-square:before {
+.ai-lattes-square {
   content: "\e99c";
 }
-.ai-mathoverflow:before {
+.ai-mathoverflow {
   content: "\e9f6";
 }
-.ai-mathoverflow-square:before {
+.ai-mathoverflow-square {
   content: "\e97b";
 }
-.ai-mendeley:before {
+.ai-mendeley {
   content: "\e9f0";
 }
-.ai-mendeley-square:before {
+.ai-mendeley-square {
   content: "\e9f3";
 }
-.ai-moodle:before {
+.ai-moodle {
   content: "\e907";
 }
-.ai-moodle-square:before {
+.ai-moodle-square {
   content: "\e908";
 }
-.ai-mtmt:before {
+.ai-mtmt {
   content: "\e950";
 }
-.ai-mtmt-square:before {
+.ai-mtmt-square {
   content: "\e951";
 }
-.ai-nakala:before {
+.ai-nakala {
   content: "\e940";
 }
-.ai-nakala-square:before {
+.ai-nakala-square {
   content: "\e941";
 }
-.ai-obp:before {
+.ai-obp {
   content: "\e92a";
 }
-.ai-obp-square:before {
+.ai-obp-square {
   content: "\e92b";
 }
-.ai-open-access:before {
+.ai-open-access {
   content: "\e939";
 }
-.ai-open-access-square:before {
+.ai-open-access-square {
   content: "\e9f4";
 }
-.ai-open-data:before {
+.ai-open-data {
   content: "\e966";
 }
-.ai-open-data-square:before {
+.ai-open-data-square {
   content: "\e967";
 }
-.ai-open-materials:before {
+.ai-open-materials {
   content: "\e968";
 }
-.ai-open-materials-square:before {
+.ai-open-materials-square {
   content: "\e969";
 }
-.ai-openedition:before {
+.ai-openedition {
   content: "\e946";
 }
-.ai-openedition-square:before {
+.ai-openedition-square {
   content: "\e947";
 }
-.ai-orcid:before {
+.ai-orcid {
   content: "\e9d9";
 }
-.ai-orcid-square:before {
+.ai-orcid-square {
   content: "\e9c3";
 }
-.ai-osf:before {
+.ai-osf {
   content: "\e9ef";
 }
-.ai-osf-square:before {
+.ai-osf-square {
   content: "\e931";
 }
-.ai-overleaf:before {
+.ai-overleaf {
   content: "\e914";
 }
-.ai-overleaf-square:before {
+.ai-overleaf-square {
   content: "\e98d";
 }
-.ai-philpapers:before {
+.ai-philpapers {
   content: "\e98a";
 }
-.ai-philpapers-square:before {
+.ai-philpapers-square {
   content: "\e96f";
 }
-.ai-piazza:before {
+.ai-piazza {
   content: "\e99a";
 }
-.ai-piazza-square:before {
+.ai-piazza-square {
   content: "\e90c";
 }
-.ai-preregistered:before {
+.ai-preregistered {
   content: "\e906";
 }
-.ai-preregistered-square:before {
+.ai-preregistered-square {
   content: "\e96b";
 }
-.ai-protocols:before {
+.ai-protocols {
   content: "\e952";
 }
-.ai-protocols-square:before {
+.ai-protocols-square {
   content: "\e953";
 }
-.ai-psyarxiv:before {
+.ai-psyarxiv {
   content: "\e90e";
 }
-.ai-psyarxiv-square:before {
+.ai-psyarxiv-square {
   content: "\e90f";
 }
-.ai-publons:before {
+.ai-publons {
   content: "\e937";
 }
-.ai-publons-square:before {
+.ai-publons-square {
   content: "\e94e";
 }
-.ai-pubmed:before {
+.ai-pubmed {
   content: "\e99f";
 }
-.ai-pubmed-square:before {
+.ai-pubmed-square {
   content: "\e97d";
 }
-.ai-pubpeer:before {
+.ai-pubpeer {
   content: "\e922";
 }
-.ai-pubpeer-square:before {
+.ai-pubpeer-square {
   content: "\e923";
 }
-.ai-researcherid:before {
+.ai-researcherid {
   content: "\e91a";
 }
-.ai-researcherid-square:before {
+.ai-researcherid-square {
   content: "\e95c";
 }
-.ai-researchgate:before {
+.ai-researchgate {
   content: "\e95e";
 }
-.ai-researchgate-square:before {
+.ai-researchgate-square {
   content: "\e99e";
 }
-.ai-ror:before {
+.ai-ror {
   content: "\e948";
 }
-.ai-ror-square:before {
+.ai-ror-square {
   content: "\e949";
 }
-.ai-sci-hub:before {
+.ai-sci-hub {
   content: "\e959";
 }
-.ai-sci-hub-square:before {
+.ai-sci-hub-square {
   content: "\e905";
 }
-.ai-scirate:before {
+.ai-scirate {
   content: "\e98e";
 }
-.ai-scirate-square:before {
+.ai-scirate-square {
   content: "\e99d";
 }
-.ai-scopus:before {
+.ai-scopus {
   content: "\e91e";
 }
-.ai-scopus-square:before {
+.ai-scopus-square {
   content: "\e91f";
 }
-.ai-semantic-scholar:before {
+.ai-semantic-scholar {
   content: "\e96e";
 }
-.ai-semantic-scholar-square:before {
+.ai-semantic-scholar-square {
   content: "\e96c";
 }
-.ai-springer:before {
+.ai-springer {
   content: "\e928";
 }
-.ai-springer-square:before {
+.ai-springer-square {
   content: "\e99b";
 }
-.ai-ssrn:before {
+.ai-ssrn {
   content: "\e916";
 }
-.ai-ssrn-square:before {
+.ai-ssrn-square {
   content: "\e917";
 }
-.ai-stackoverflow:before {
+.ai-stackoverflow {
   content: "\e920";
 }
-.ai-stackoverflow-square:before {
+.ai-stackoverflow-square {
   content: "\e921";
 }
-.ai-zenodo:before {
+.ai-zenodo {
   content: "\e911";
 }
-.ai-zotero:before {
+.ai-zotero {
   content: "\e962";
 }
-.ai-zotero-square:before {
+.ai-zotero-square {
   content: "\e932";
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
