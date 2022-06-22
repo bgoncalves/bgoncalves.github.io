@@ -7,7 +7,7 @@ excerpt: "Recent Presentations"
 ## Ph.D. Defense 
 
 `March 2021`
-(link - to appear)
+(Have to take time to edit the long video)
 
 
 ## Talks and conference presentations
