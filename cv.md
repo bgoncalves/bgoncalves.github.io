@@ -41,7 +41,7 @@ __B.Sc. in Computer Science__<br>
 Universidade Federal do Espírito Santo (UFES)
 
 
-## Selected Awards
+## Recognitions & Funding
 
 `2020`
 Postdoctoral Fellowship Grant, [São Paulo Research Foundation (FAPESP)](http://fapesp.br/en/postdoc){:target="_blank"}
@@ -116,6 +116,6 @@ Undergraduate Course - "Introduction to Computer Science"
 
 <!-- ### Footer
 
-Last updated: Dec 2021 -->
+Last updated: Nov 2022 -->
 
 
