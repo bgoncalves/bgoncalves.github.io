@@ -76,9 +76,10 @@ _Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_
 ## Selected Refereed Publications
 
 `2022`
-"Para roubar o fogo dos deuses: Alan Turing (1912-1954), Prometeu moderno" (to appear)
-
 "Can Machines Think? The Controversy that led to the Turing Test". _AI & Society_ (to appear), doi:[10.1007/s00146-021-01318-6](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"}
+
+"Para roubar o fogo dos deuses: Alan Turing (1912-1954), Prometeu moderno", _Perspectiva Filosófica_ 49(3): 283-305,  doi:[10.51359/2357-9986.2022.254744](http://dx.doi.org/10.51359/2357-9986.2022.254744){:target="_blank"}
+
 
 `2021`
 (with [Fabio Cozman](http://sites.poli.usp.br/p/fabio.cozman/){:target="_blank"}) "The Future of AI: Neat or Scruffy?". In: Britto A., Valdivia Delgado K. (eds) _Intelligent Systems_. BRACIS 2021. Lecture Notes in Computer Science, vol 13074. Springer, doi:[10.1007/978-3-030-91699-2_13](https://doi.org/10.1007/978-3-030-91699-2_13){:target="_blank"}
