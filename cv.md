@@ -60,11 +60,11 @@ IBM Ph.D. Fellowship Award, [IBM Research](http://www.research.ibm.com/universit
 
 ### Books
 
-`2022`
-_The Turing Test Argument_. London, NY: Routledge (under contract) 
+`2023`
+_The Turing Test Argument_. London, New York: Routledge (under contract, forthcoming) 
 
 
-### Theses
+### Doctoral Theses
 
 `2021`
 _Machines Will Think_: Structure and Interpretation of Alan Turing's Imitation Game. Programa de Pós-Graduação em Filosofia, Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, doi:[10.11606/T.8.2021.tde-10062021-173217](https://doi.org/10.11606/T.8.2021.tde-10062021-173217)
@@ -76,7 +76,9 @@ _Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_
 ## Selected Refereed Publications
 
 `2022`
-"Can Machines Think? The Controversy that led to the Turing Test". _AI & Society_ (to appear), doi:[10.1007/s00146-021-01318-6](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"}
+"The Turing Test Is a Thought Experiment". _Minds & Machines_ (to appear), doi:[10.1007/s11023-022-09616-8](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"}
+
+"Can Machines Think? The Controversy that led to the Turing Test". _AI & Society_, doi:[10.1007/s00146-021-01318-6](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"}
 
 "Para roubar o fogo dos deuses: Alan Turing (1912-1954), Prometeu moderno", _Perspectiva Filosófica_ 49(3): 283-305,  doi:[10.51359/2357-9986.2022.254744](http://dx.doi.org/10.51359/2357-9986.2022.254744){:target="_blank"}
 
