@@ -17,4 +17,4 @@ I earned my second Ph.D., in Philosophy (University of São Paulo, 2021), as a r
 
 In the Faculty of Philosophy, Languages, and Humanities at the University of São Paulo, I have taken graduate courses on the philosophy of history (e.g., the idea of progress in Cicero, Machiavelli, Voltaire and Rousseau, and Walter Benjamin's theses), history of economics (e.g., the formation of the modern state in England), ancient and modern skepticism (Pyrrho, Montaigne, Descartes), early modern science (Galileo and the Renaissance, Descartes and mechanicism), in addition to having read classics in the history and the philosophy of science such as Duhem, Popper, Kuhn, Hacking. At the National Laboratory for Scientific Computing, I have taken graduate courses in theoretical computer science, mathematical modeling, real analysis, numerical analysis, vector calculus, and the calculus of variations. 
 
-A resumé can be downloaded [here](https://bgoncalves.github.io/bg-resume.pdf){:target="_blank"}. Thanks for visiting! 
+Thanks for visiting! 
