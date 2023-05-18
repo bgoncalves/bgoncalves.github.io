@@ -3,9 +3,13 @@ layout: resume
 ---
 ## Currently
 
+`2023 - present`
+__Visiting Fellow__<br>
+King's College, University of Cambridge
+
 `2020 - present`
 __Postdoctoral Research Fellow__<br>
-University of São Paulo, Polytechnic School
+Polytechnic School, University of São Paulo
 
 
 ## Employment
@@ -43,6 +47,9 @@ Universidade Federal do Espírito Santo (UFES)
 
 ## Recognitions & Funding
 
+`2023`
+Visiting Fellowship Grant, [São Paulo Research Foundation (FAPESP)](http://fapesp.br/en/postdoc){:target="_blank"}
+
 `2020`
 Postdoctoral Fellowship Grant, [São Paulo Research Foundation (FAPESP)](http://fapesp.br/en/postdoc){:target="_blank"}
 
@@ -71,6 +78,11 @@ _Machines Will Think_: Structure and Interpretation of Alan Turing's Imitation G
 
 `2015`
 _Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_. Programa de Pós-Graduação em Modelagem Computacional, Laboratório Nacional de Computação Científica, arXiv:[1501.05290](https://arxiv.org/abs/1501.05290)
+
+
+## Refereeing
+
+`Annals of the History of Computing`, `Studies in History and Philosophy of Science`, `AI & Society`, `Principia (UFSC)`
 
 
 ## Selected Refereed Publications
