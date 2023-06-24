@@ -82,14 +82,17 @@ _Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_
 
 ## Refereeing
 
-`Annals of the History of Computing`, `Studies in History and Philosophy of Science`, `AI & Society`, `Principia (UFSC)`
+`Annals of the History of Computing`, `Studies in History and Philosophy of Science`, `AI & Society`, `Principia (UFSC)`, `THEORIA'
 
 
 ## Selected Refereed Publications
 
-`2022`
-"The Turing Test Is a Thought Experiment". _Minds & Machines_ (to appear), doi:[10.1007/s11023-022-09616-8](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"}
+`2023`
+"Irony with a Point: Alan Turing and His Intelligent Machine Utopia". _Philosophy & Technology_ (to appear), doi:[10.1007/s13347-023-00650-7](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"}
 
+"The Turing Test Is a Thought Experiment". _Minds & Machines_ 33(1):1-31, doi:[10.1007/s11023-022-09616-8](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"}
+
+`2022`
 "Can Machines Think? The Controversy that led to the Turing Test". _AI & Society_, doi:[10.1007/s00146-021-01318-6](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"}
 
 "Para roubar o fogo dos deuses: Alan Turing (1912-1954), Prometeu moderno", _Perspectiva Filosófica_ 49(3): 283-305,  doi:[10.51359/2357-9986.2022.254744](http://dx.doi.org/10.51359/2357-9986.2022.254744){:target="_blank"}
