@@ -12,8 +12,11 @@ I am a philosopher and Turing scholar specializing in the conceptual foundations
 My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo State Research Foundation under grant #19/21489-4). I have been studying Alan Turing’s life and works, and his vision about the future of machines in society. I am finishing a book, _The Turing Test Argument_ (Routledge, under contract). My recent papers are: 
 
 ['The Controversy that Led to the Turing Test'](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"} (_AI & Society_), 
+
 ['The Turing Test is a Thought Experiment'](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"} (_Minds & Machines_), 
+
 ['Irony with a Point: Alan Turing and His Intelligent Machine Utopia'](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"} (_Philosophy & Technology_), and
+
 Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence. 
 
 I have been elected Visiting Fellow of King's College, Cambridge, and will spend a year there from 2023 to 2024. 
