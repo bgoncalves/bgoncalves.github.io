@@ -13,15 +13,15 @@ My work has appeared in [_Philosophy & Technology_](https://www.springer.com/jou
 
 My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo State Research Foundation under grant #19/21489-4). I have been elected Visiting Fellow of King's College, Cambridge, where I am hosted since May 2023. I am finishing a book, _The Turing Test Argument_ (Routledge, under contract). My recent papers are: 
 
-['Can Machines Think? The Controversy that Led to the Turing Test'](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"} (_AI & Society_) 
-
-['The Turing Test is a Thought Experiment'](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"} (_Minds & Machines_) 
-
-['Irony with a Point: Alan Turing and His Intelligent Machine Utopia'](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"} (_Philosophy & Technology_)
+'Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'
 
 ['Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence'](https://doi.org/10.1080/00033790.2023.2234912){:target="_blank"} (_Annals of Science_)
 
-'Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'
+['Irony with a Point: Alan Turing and His Intelligent Machine Utopia'](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"} (_Philosophy & Technology_)
+
+['The Turing Test is a Thought Experiment'](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"} (_Minds & Machines_) 
+
+['Can Machines Think? The Controversy that Led to the Turing Test'](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"} (_AI & Society_) 
 
 
 
