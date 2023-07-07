@@ -25,6 +25,7 @@ My current project is entitled ["The Future of AI: the Logical Structure of Alan
 
 
 
+
 Previously, I have worked in designing, developing, and deploying AI systems as a permanent research scientist at IBM Research (2016-2020) and contributed to large joint-development projects with oil & gas companies such as Galp Energy, Schlumberger, and Gazprom Neft. 
 
 I earned my second Ph.D., in Philosophy (University of São Paulo, 2021), as a result of a recent career shift from computer science, the field in which I earned my first Ph.D. in Computational Modeling (National Laboratory for Scientific Computing, Brazil, 2015), and my M.Sc. and B.Sc. degrees. In the year 2015, I was a visiting scholar in the Department of Computer Science at the University of Michigan. I am a member of the Association for the History and Philosophy of Science of the Southern Cone ([AFHIC](http://www.afhic.com/){:target="_blank"}) and a former member of the Science, Technology & Society group _Scientiae Studia_ at the University of São Paulo (2017-2020), led by Galileo scholar Prof. Pablo Mariconda. 
