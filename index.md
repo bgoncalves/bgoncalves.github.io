@@ -17,9 +17,9 @@ My current project is entitled ["The Future of AI: the Logical Structure of Alan
 
 ['The Turing Test is a Thought Experiment'](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"} (_Minds & Machines_) 
 
-['Irony with a Point: Alan Turing and His Intelligent Machine Utopia'](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"} (To appear in _Philosophy & Technology_)
+['Irony with a Point: Alan Turing and His Intelligent Machine Utopia'](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"} (_Philosophy & Technology_)
 
-'Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence' (To appear in _Annals of Science_)
+['Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence'](https://doi.org/10.1080/00033790.2023.2234912){:target="_blank"} (_Annals of Science_)
 
 'Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'
 
