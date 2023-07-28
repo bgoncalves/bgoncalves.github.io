@@ -7,11 +7,11 @@ tags: [Alan Turing, AI, Science, Philosophy, History, Anthropocene]
 image: bio-photo.jpeg
 ---
 
-I am a philosopher and Turing scholar. 
+I am currently a visiting fellow at King's College, Cambridge, UK. 
 
 My work has appeared in [_Annals of Science_](https://www.tandfonline.com/journals/tasc20){:target="_blank"}, [_Philosophy & Technology_](https://www.springer.com/journal/13347){:target="_blank"}, [_Minds & Machines_](https://www.springer.com/journal/11023){:target="_blank"}, [_AI & Society_](https://www.springer.com/journal/146){:target="_blank"}, [_Artificial Intelligence_](https://www.journals.elsevier.com/artificial-intelligence){:target="_blank"}, [_International Journal of Approximate Reasoning_](https://www.journals.elsevier.com/international-journal-of-approximate-reasoning){:target="_blank"}, [_Computing in Science & Engineering_](https://www.computer.org/csdl/magazine/cs/about/14587){:target="_blank"}, and [_Proceedings of the VLDB_](https://www.vldb.org/){:target="_blank"}. 
 
-My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo State Research Foundation under grant #19/21489-4). I have been elected Visiting Fellow of King's College, Cambridge, where I am hosted since May 2023. The output includes: 
+My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo State Research Foundation under grant #19/21489-4). The output of this project includes: 
 
 _The Turing Test Argument_ (London, NY: Routledge, in press) 
 
