@@ -2,8 +2,8 @@
 layout: page
 #layout: default
 title: Bernardo Gonçalves
-excerpt: "Bernardo Gonçalves"
-tags: [theme, responsive, blog, template, Turing]
+#excerpt: "Bernardo Gonçalves"
+tags: [Alan Turing, AI, Science, Philosophy, History, Anthropocene]
 image: bio-photo.jpeg
 ---
 
