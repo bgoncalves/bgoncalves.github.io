@@ -9,7 +9,7 @@ image: bio-photo.jpeg
 
 I have been elected a Visiting Fellow of King's College, Cambridge, and am based in Cambridge since May 2023. 
 
-My research focuses on Alan Turing (1912-1954), his machines and games, AI, the future of machines in society & nature, the Anthropocene. 
+My research focuses on Alan Turing (1912-1954), his machines and games, AI, the future of machines in society & nature, and the Anthropocene. 
 
 My work has appeared in [_Annals of Science_](https://www.tandfonline.com/journals/tasc20){:target="_blank"}, [_Philosophy & Technology_](https://www.springer.com/journal/13347){:target="_blank"}, [_Minds & Machines_](https://www.springer.com/journal/11023){:target="_blank"}, [_AI & Society_](https://www.springer.com/journal/146){:target="_blank"}, [_Artificial Intelligence_](https://www.journals.elsevier.com/artificial-intelligence){:target="_blank"}, [_International Journal of Approximate Reasoning_](https://www.journals.elsevier.com/international-journal-of-approximate-reasoning){:target="_blank"}, [_Computing in Science & Engineering_](https://www.computer.org/csdl/magazine/cs/about/14587){:target="_blank"}, and [_Proceedings of the VLDB_](https://www.vldb.org/){:target="_blank"}. As a referee, I have contributed to _IEEE Annals of the History of Computing_, _Studies in History and Philosophy of Science_, _AI & Society_, _Principia_ (Florianópolis, Brazil), _THEORIA_ (Basque Country), _Diametros_ (Kraków, Poland). 
 
@@ -29,7 +29,7 @@ _The Turing Test Argument_ (in production at Routledge)
 ['Can Machines Think? The Controversy that Led to the Turing Test'](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"} (_AI & Society_) 
 
 
-Previously, I have worked in designing, developing, and deploying AI systems as a permanent research scientist at IBM Research (2016-2020) and contributed to large joint-development projects with oil & gas companies such as Galp Energy, Schlumberger, and Gazprom Neft.
+Previously, I have worked in designing, developing, and deploying AI systems as a permanent research scientist at IBM Research (2016-2019) and contributed to large joint-development projects with oil & gas companies such as Galp Energy, Schlumberger, and Gazprom Neft.
 
 I earned my second Ph.D., in Philosophy (University of São Paulo, 2021), as a result of a recent career shift from computer science, the field in which I earned my first Ph.D. in Computational Modeling (National Laboratory for Scientific Computing, Brazil, 2015), and my M.Sc. and B.Sc. degrees. In 2016-2019, I was a permanent research scientist at IBM Research, and in 2015 I was a visiting scholar in the Department of Computer Science at the University of Michigan. I am a member of the Association for the History and Philosophy of Science of the Southern Cone ([AFHIC](http://www.afhic.com/){:target="_blank"}) and a former member of the Science, Technology & Society group _Scientiae Studia_ at the University of São Paulo (2017-2019), led by Galileo scholar Prof. Pablo Mariconda. 
 
