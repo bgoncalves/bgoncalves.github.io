@@ -88,8 +88,7 @@ _Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_
 `Studies in History and Philosophy of Science`
 `Principia (Brazil)`
 `THEORIA (Basque Country)`
-`Diametros (Poland)` 
-
+`Diametros (Poland)`
 
 
 ## Selected Refereed Publications
