@@ -82,13 +82,18 @@ _Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_
 
 ## Refereeing
 
-`IEEE Annals of the History of Computing`, `Studies in History and Philosophy of Science`, `AI & Society`, `Principia (Florianópolis, Brazil)`, `THEORIA (Basque Country)`, `Diametros (Kraków, Poland)` 
+`Artificial Intelligence Review`, `IEEE Annals of the History of Computing`, `Studies in History and Philosophy of Science`, `AI & Society`, `Principia (Brazil)`, `THEORIA (Basque Country)`, `Diametros (Poland)` 
 
 
 ## Selected Refereed Publications
 
+`2024`
+"Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951". _IEEE Annals of the History of Computing_, doi:[10.1109/MAHC.2023.3326607](http://doi.org/10.1109/MAHC.2023.3326607){:target="_blank"}
+
 `2023`
-"Irony with a Point: Alan Turing and His Intelligent Machine Utopia". _Philosophy & Technology_ (to appear), doi:[10.1007/s13347-023-00650-7](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"}
+"Irony with a Point: Alan Turing and His Intelligent Machine Utopia". _Philosophy & Technology_, doi:[10.1007/s13347-023-00650-7](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"}
+
+"Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence". _Annals of Science_, doi:[10.1080/00033790.2023.2234912](https://doi.org/10.1080/00033790.2023.2234912){:target="_blank"}
 
 "The Turing Test Is a Thought Experiment". _Minds & Machines_ 33(1):1-31, doi:[10.1007/s11023-022-09616-8](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"}
 
