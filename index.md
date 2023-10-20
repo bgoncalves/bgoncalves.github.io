@@ -3,11 +3,11 @@ layout: page
 #layout: default
 title: Bernardo Gonçalves
 #excerpt: "Bernardo Gonçalves"
-tags: [Alan Turing, AI, Science, Philosophy, History, Anthropocene]
+tags: [Alan Turing, AI Foundations, Computer Science, Philosophy, History, Anthropocene]
 image: bio-photo.jpeg
 ---
 
-My research focuses on Alan Turing (1912-1954), his machines and games, AI, the future of machines in society & nature, and the Anthropocene. 
+My research focuses on Alan Turing (1912-1954), his machines and games, AI foundations, the future of machines in society & nature, and the Anthropocene. 
 
 I have been elected a Visiting Fellow of King's College, Cambridge, and am based in Cambridge since May 2023. My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo Research Foundation under grant #19/21489-4). The output of this project includes: 
 
