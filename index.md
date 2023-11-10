@@ -9,7 +9,7 @@ image: bio-photo.jpeg
 
 Recently, my research has focused on the future of AI as imagined by Alan Turing (1912-1954), his machines and games, AI foundations, the future of machines in society & nature, and the Anthropocene. I have 12+ years of research & development experience in AI and data-centric systems.
 
-I have been elected a Visiting Fellow of King's College, Cambridge, and have been based in Cambridge since May 2023. Since October 2023 I am also been a Research Associate at the University of Cambridge, Department of History and Philosophy of Science. My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo Research Foundation under grant #19/21489-4). The output of this project includes: 
+I have been elected a Visiting Fellow of King's College, Cambridge, and have been based in Cambridge/UK, since May 2023. Since October 2023 I am also a Research Associate of the Department of History and Philosophy of Science, University of Cambridge. My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo Research Foundation under grant #19/21489-4). The output of this project includes: 
 
 [_The Turing Test Argument_](https://www.routledge.com/The-Turing-Test-Argument/Gonalves/p/book/9781032291574){:target="_blank"} (London: Routledge, December 2023) 
 
