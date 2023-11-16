@@ -13,7 +13,7 @@ I have been elected a Visiting Fellow of King's College, Cambridge, and have bee
 
 [_The Turing Test Argument_](https://www.routledge.com/9781032291574){:target="_blank"} (London: Routledge, December 2023) 
 
-['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_) (Preprint available [here](https://ssrn.com/abstract=4629448){:target="_blank"}.)
+['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - preprint available [here](https://ssrn.com/abstract=4629448){:target="_blank"}.)
 
 ['Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence'](https://doi.org/10.1080/00033790.2023.2234912){:target="_blank"} (_Annals of Science_)
 
