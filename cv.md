@@ -82,12 +82,11 @@ _Managing Large-Scale Scientific Hypotheses as Uncertain and Probabilistic Data_
 
 ## Refereeing
 
-`Artificial Intelligence Review`, 
-`AI & Society`,
-`IEEE Annals of the History of Computing`,
-`Studies in History and Philosophy of Science`,
-`Philosophy & Technology`,
-and others.
+`Artificial Intelligence Review` 
+`AI & Society`
+`IEEE Annals of the History of Computing`
+`Studies in History and Philosophy of Science`
+`Philosophy & Technology`
 
 ## Selected Refereed Publications
 
