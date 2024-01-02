@@ -13,7 +13,7 @@ I have been elected a Visiting Fellow of King's College, Cambridge, and have bee
 
 ['What was the Turing test actually about?'](https://doi.org/10.1038/d41586-023-04058-3){:target="_blank"} (_Nature_, Letter to the Editor)
 
-[_The Turing Test Argument_](https://www.routledge.com/9781032291574){:target="_blank"} (London: Routledge) 
+[_The Turing Test Argument_](https://doi.org/10.4324/9781003300267){:target="_blank"} (New York: Routledge) 
 
 ['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [preprint](https://ssrn.com/abstract=4629448){:target="_blank"}.)
 
