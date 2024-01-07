@@ -9,7 +9,7 @@ image: bio-photo.jpeg
 
 For the past five years, my research has focused on the future of AI as envisioned by Alan Turing (1912-1954), his machines and games, the foundations of AI, the future of machines in society & nature. I have 12+ years of research & development experience in AI and data-centric systems.
 
-I have been elected a Visiting Fellow of King's College, Cambridge, and have been based in Cambridge/UK, since May 2023. Since October 2023 I am also a Research Associate of the Department of History and Philosophy of Science, University of Cambridge. My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo Research Foundation under grant #19/21489-4). The output of this project includes: 
+Since May 2023 I have been based in Cambridge, UK. I am a Visiting Fellow of King's College and a Research Affiliate of the Department of History and Philosophy of Science, University of Cambridge. My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo Research Foundation under grant #19/21489-4). The output of this project includes: 
 
 ['What was the Turing test actually about?'](https://doi.org/10.1038/d41586-023-04058-3){:target="_blank"} (_Nature_, Letter to the Editor)
 
