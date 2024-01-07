@@ -7,7 +7,7 @@ tags: [Alan Turing, AI Foundations, Computer Science, Philosophy, History, Anthr
 image: bio-photo.jpeg
 ---
 
-For the past five years, my research has focused on the future of AI as envisioned by Alan Turing (1912-1954), his machines and games, the foundations of AI, the future of machines in society & nature. I have 12+ years of research & development experience in AI and data-centric systems.
+For the past five years, my research has focused on the future of AI as envisioned by Alan Turing (1912-1954), his machines and games, the foundations of AI, the future of machines in society & nature. I have 12+ years of research & development experience in AI and data-centric systems in academia and industry.
 
 I am currently a postdoctoral researcher at the Polytechnic School, University of São Paulo, Brazil. Since May 2023 I have been based in Cambridge, UK, where I am a visiting fellow of King's College and a research affiliate of the Department of History and Philosophy of Science, University of Cambridge. My current project is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo Research Foundation under grant #19/21489-4). The output of this project includes: 
 
