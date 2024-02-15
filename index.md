@@ -4,7 +4,7 @@ layout: page
 title: Bernardo Gonçalves
 #excerpt: "Bernardo Gonçalves"
 tags: [Alan Turing, AI Foundations, Computer Science, Philosophy, History, Anthropocene]
-image: bio-photo.jpeg
+image: bio-photo.jpg
 ---
 
 For the past five years, my research has focused on the future of AI as envisioned by Alan Turing (1912-1954), his machines and games, the foundations and ethics of AI, the future of machines in society & nature. I have 12+ years of research & development experience in AI and data-centric systems in academia and industry.
