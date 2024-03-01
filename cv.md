@@ -68,7 +68,7 @@ IBM Ph.D. Fellowship Award, [IBM Research](http://www.research.ibm.com/universit
 ### Books
 
 `2023`
-_The Turing Test Argument_. London, New York: Routledge (under contract, forthcoming) 
+_The Turing Test Argument_. New York and London: Routledge. doi:[10.4324/9781003300267](https://doi.org/10.4324/9781003300267)
 
 
 ### Doctoral Theses
