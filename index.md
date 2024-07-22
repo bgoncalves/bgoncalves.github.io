@@ -11,11 +11,13 @@ For the past five years, my research has focused on the future of AI as envision
 
 I am currently based in Cambridge, UK, where I am a Visiting Fellow of King's College and a [Research Affiliate](https://www.hps.cam.ac.uk/directory/affiliates){:target="_blank"} of the Department of History and Philosophy of Science, University of Cambridge. My ongoing four-year research project at the Polytechnic School, University of São Paulo, Brazil, is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo Research Foundation under grant 2019/21489-4). The output of this project includes: 
 
+[`Turing's Test, a Beautiful Thought Experiment'](https://doi.org/10.1109/MAHC.2024.3432278){:target="_blank"} (_IEEE Annals of the History of Computing_) - forthcoming - [PREPRINT](https://arxiv.org/abs/2401.00009){:target="_blank"}
+
 ['What was the Turing test actually about?'](https://doi.org/10.1038/d41586-023-04058-3){:target="_blank"} (_Nature_, Letter to the Editor)
 
 [_The Turing Test Argument_](https://doi.org/10.4324/9781003300267){:target="_blank"} (New York and London: Routledge) 
 
-['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [preprint](https://ssrn.com/abstract=4629448){:target="_blank"}.)
+['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [PREPRINT](https://ssrn.com/abstract=4629448){:target="_blank"}.)
 
 ['Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence'](https://doi.org/10.1080/00033790.2023.2234912){:target="_blank"} (_Annals of Science_)
 
