@@ -25,7 +25,7 @@ I am currently based in Cambridge, UK, where I am a Visiting Fellow of King's Co
 
 ['The Turing Test is a Thought Experiment'](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"} (_Minds & Machines_) 
 
-['Can Machines Think? The Controversy that Led to the Turing Test'](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"} (_AI & Society_ - [<span style="color:red">preprint</span>]([https://ssrn.com/abstract=4629448](https://philpapers.org/go.pl?id=GONCMT&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FGONCMT.pdf)){:target="_blank"}) 
+['Can Machines Think? The Controversy that Led to the Turing Test'](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"} (_AI & Society_ - [<span style="color:red">preprint</span>](https://philpapers.org/go.pl?id=GONCMT&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FGONCMT.pdf){:target="_blank"}) 
 
 
 Previously, I have worked in designing, developing, and deploying AI systems as a permanent research scientist at IBM Research (2016-2019) and contributed to large joint-development projects with oil & gas companies such as Galp Energy, Schlumberger, and Gazprom Neft.
