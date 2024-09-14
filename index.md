@@ -19,7 +19,7 @@ I am currently based in Cambridge, UK, where I am a Visiting Fellow of King's Co
 
 [_The Turing Test Argument_](https://doi.org/10.4324/9781003300267){:target="_blank"} (New York and London: Routledge) 
 
-['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [<span style="color:red">preprint</span>](https://www.repository.cam.ac.uk/items/9f08e73b-b1c2-4ccb-88cf-9b7b5ae7309e){:target="_blank"}.)
+['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [<span style="color:red">preprint</span>](https://www.repository.cam.ac.uk/handle/1810/372615){:target="_blank"}.)
 
 ['Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence'](https://doi.org/10.1080/00033790.2023.2234912){:target="_blank"} (_Annals of Science_)
 
