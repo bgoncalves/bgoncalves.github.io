@@ -11,7 +11,7 @@ For the past five years, my research has focused on the future of AI as envision
 
 I am currently based in Cambridge, UK, where I am a Visiting Fellow of King's College and a [Research Affiliate](https://www.hps.cam.ac.uk/directory/affiliates){:target="_blank"} of the Department of History and Philosophy of Science, University of Cambridge. My ongoing four-year research project at the Polytechnic School, University of São Paulo, Brazil, is entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo Research Foundation under grant 2019/21489-4). The output of this project includes: 
 
-'Passed the Turing Test: Living in Turing Futures' (Forthcoming in [_Intelligent Computing_](https://spj.science.org/journal/icomputing){:target="_blank"}, a Science Partner Journal published in affiliation with Zhejiang Lab - [<span style="color:red">preprint</span>](https://arxiv.org/abs/2409.07656){:target="_blank"})
+['Passed the Turing Test: Living in Turing Futures'](https://doi.org/10.34133/icomputing.0102){:target="_blank"} (_Intelligent Computing_, a Science Partner Journal published in affiliation with Zhejiang Lab - [<span style="color:red">preprint</span>](https://arxiv.org/abs/2409.07656){:target="_blank"})
 
 ['Turing's Test, a Beautiful Thought Experiment'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2024.3432278){:target="_blank"} (_IEEE Annals of the History of Computing_)
 
