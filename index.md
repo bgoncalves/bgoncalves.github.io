@@ -11,13 +11,14 @@ For the past six years, my research has focused on the future of AI as envisione
 
 I am a Staff Research Scientist at the National Laboratory for Scientific Computing (LNCC), an institute of the Ministry of Science, Technology, and Innovation of the Federal Republic of Brazil. There I am founding the Turing Futures Lab. I am also Associate Editor of the _IEEE Annals of the History of Computing_, and an Associate Researcher at the Center for AI of the University of São Paulo (C4AI-USP), where I participate in the Knowledge-Enhanced Machine Learning group. I was a Visiting Fellow (2023-2024) of King's College, Cambridge, and [a Research Affiliate](https://web.archive.org/web/20241208103715/https://www.hps.cam.ac.uk/directory/affiliates){:target="_blank"} of the Department of History and Philosophy of Science, University of Cambridge. My former research project lasted four years and was based at the Polytechnic School, University of São Paulo, Brazil. It was entitled ["The Future of AI: the Logical Structure of Alan Turing's Argument"](https://bv.fapesp.br/en/bolsas/191927/the-future-of-artificial-intelligence-the-logical-structure-of-alan-turings-argument/){:target="_blank"} (supported by The São Paulo Research Foundation under grant 2019/21489-4). The output of this project includes: 
 
-['Passed the Turing Test: Living in Turing Futures'](https://doi.org/10.34133/icomputing.0102){:target="_blank"} (_Intelligent Computing_, a _Science_ Partner Journal published by [AAAS](https://www.science.org/){:target="_blank"} in affiliation with Zhejiang Lab - [<span style="color:red">preprint</span>](https://arxiv.org/abs/2409.07656){:target="_blank"})
+['Passed the Turing Test: Living in Turing Futures'](https://doi.org/10.34133/icomputing.0102){:target="_blank"} (_Intelligent Computing_, a _Science_ Partner Journal published by [AAAS](https://www.science.org/){:target="_blank"} in affiliation with Zhejiang Lab - <span style="color:red">open access</span>)
 
 ['Turing's Test, a Beautiful Thought Experiment'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2024.3432278){:target="_blank"} (_IEEE Annals of the History of Computing_)
 
 ['What was the Turing test actually about?'](https://doi.org/10.1038/d41586-023-04058-3){:target="_blank"} (_Nature_, Letter to the Editor)
 
-[_The Turing Test Argument_](https://doi.org/10.4324/9781003300267){:target="_blank"} (New York and London: Routledge) 
+[_The Turing Test Argument_](https://doi.org/10.4324/9781003300267){:target="_blank"} (New York and London: Routledge). 
+      Review of the book by Harry Law, _British Journal for the History of Science_ [(<span style="color:red">open access</span>)](https://doi.org/10.1017/S0007087424001183){:target="_blank"}. 
 
 ['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [<span style="color:red">preprint</span>](https://www.repository.cam.ac.uk/handle/1810/372615){:target="_blank"}.)
 
