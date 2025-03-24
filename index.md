@@ -13,7 +13,7 @@ I am a Staff Research Scientist at the National Laboratory for Scientific Comput
 
 ['Passed the Turing Test: Living in Turing Futures'](https://doi.org/10.34133/icomputing.0102){:target="_blank"} (_Intelligent Computing_, a _Science_ Partner Journal published by [AAAS](https://www.science.org/){:target="_blank"} in affiliation with Zhejiang Lab - <span style="color:red">open access</span>)
 
-['Turing's Test, a Beautiful Thought Experiment'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2024.3432278){:target="_blank"} (_IEEE Annals of the History of Computing_)
+['Turing's Test, a Beautiful Thought Experiment'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2024.3432278){:target="_blank"} (_IEEE Annals of the History of Computing_, <span style="color:red">open access</span>)
 
 ['What was the Turing test actually about?'](https://doi.org/10.1038/d41586-023-04058-3){:target="_blank"} (_Nature_, Letter to the Editor)
 
@@ -22,11 +22,11 @@ I am a Staff Research Scientist at the National Laboratory for Scientific Comput
 
 ['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [<span style="color:red">preprint</span>](https://www.repository.cam.ac.uk/handle/1810/372615){:target="_blank"}.)
 
-['Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence'](https://doi.org/10.1080/00033790.2023.2234912){:target="_blank"} (_Annals of Science_)
+['Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence'](https://doi.org/10.1080/00033790.2023.2234912){:target="_blank"} (_Annals of Science_, <span style="color:red">open access</span>)
 
-['Irony with a Point: Alan Turing and His Intelligent Machine Utopia'](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"} (_Philosophy & Technology_)
+['Irony with a Point: Alan Turing and His Intelligent Machine Utopia'](http://doi.org/10.1007/s13347-023-00650-7){:target="_blank"} (_Philosophy & Technology_, <span style="color:red">open access</span>)
 
-['The Turing Test is a Thought Experiment'](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"} (_Minds & Machines_) 
+['The Turing Test is a Thought Experiment'](http://doi.org/10.1007/s11023-022-09616-8){:target="_blank"} (_Minds & Machines_, <span style="color:red">open access</span>) 
 
 ['Can Machines Think? The Controversy that Led to the Turing Test'](http://doi.org/10.1007/s00146-021-01318-6){:target="_blank"} (_AI & Society_ - [<span style="color:red">preprint</span>](https://philpapers.org/go.pl?id=GONCMT&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FGONCMT.pdf){:target="_blank"}) 
 
