@@ -18,7 +18,7 @@ I am a Staff Research Scientist at the National Laboratory for Scientific Comput
 ['What was the Turing test actually about?'](https://doi.org/10.1038/d41586-023-04058-3){:target="_blank"} (_Nature_, Letter to the Editor)
 
 [_The Turing Test Argument_](https://doi.org/10.4324/9781003300267){:target="_blank"} (New York and London: Routledge).<br/> 
-[<span style="color:red">Review of the book</span>](https://doi.org/10.1017/S0007087424001183){:target="_blank"} in the _British Journal for the History of Science_ (<span style="color:red">open access</span>). 
+[<span style="color:red">Open-access review of the book</span>](https://doi.org/10.1017/S0007087424001183){:target="_blank"} by Harry Law in the _British Journal for the History of Science_. 
 
 ['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [<span style="color:red">preprint</span>](https://www.repository.cam.ac.uk/handle/1810/372615){:target="_blank"}.)
 
