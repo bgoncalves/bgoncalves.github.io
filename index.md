@@ -20,7 +20,7 @@ I am a Staff Research Scientist at the National Laboratory for Scientific Comput
 [_The Turing Test Argument_](https://doi.org/10.4324/9781003300267){:target="_blank"} (New York and London: Routledge).<br/> 
 [<span style="color:red">Open-access review of the book</span>](https://doi.org/10.1017/S0007087424001183){:target="_blank"} by Harry Law in the _British Journal for the History of Science_. 
 
-['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [<span style="color:red">preprint</span>](https://www.repository.cam.ac.uk/handle/1810/372615){:target="_blank"}.)
+['Lady Lovelace's Objection: The Turing-Hartree Disputes over the Meaning of Digital Computers, 1946-1951'](https://doi.ieeecomputersociety.org/10.1109/MAHC.2023.3326607){:target="_blank"} (_IEEE Annals of the History of Computing_ - [<span style="color:red">preprint</span>](https://www.repository.cam.ac.uk/handle/1810/372615){:target="_blank"}. [[<span style="color:red">Selected</span> as the Annals 2024 Best Paper Runner-up](https://www.computer.org/digital-library/magazines/an/2024-best-papers){:target="_blank"})
 
 ['Galilean Resonances: The Role of Experiment in Turing's Construction of Machine Intelligence'](https://doi.org/10.1080/00033790.2023.2234912){:target="_blank"} (_Annals of Science_, <span style="color:red">open access</span>)
 
