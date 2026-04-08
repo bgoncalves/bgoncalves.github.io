@@ -5,14 +5,12 @@ excerpt: "Recent Talks"
 ---
 
 
-# Talks and conference presentations
-
 `2025`
 
 ['The Turing Test and its Legacy, 1950–2025'](https://www.youtube.com/watch?v=57f2UR3YZMk) - `The Next Turing Tests
 Conference', 16.Oct.2025, King’s College, University of Cambridge, Cambridge, UK.
 
-['75 Anos do Teste de Turing'](https://www.iea.usp.br/midiateca/video/videos-2025/75-anos-do-teste-de-turing), Instituto de Estudos Avançados, Universidade de São Paulo, São Paulo.
+['75 Anos do Teste de Turing'](https://www.iea.usp.br/midiateca/video/videos-2025/75-anos-do-teste-de-turing), `75 Anos do Teste de Turing', 29.Ago.2025, Instituto de Estudos Avançados, Universidade de São Paulo, São Paulo.
 
 `2024`
 
