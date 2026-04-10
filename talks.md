@@ -4,6 +4,9 @@ title: Recent Talks
 excerpt: "Recent Talks"
 ---
 
+`2026`
+
+['O Novo Curso de Inteligência Artificial do PPG-LNCC']([https://www.youtube.com/watch?v=57f2UR3YZMk](https://www.youtube.com/watch?v=Ux-EIRUiZeI){:target="_blank"} - `Ciclo de Palestras do PPG-LNCC', 9.Mar.2026,  Laboratório Nacional de Computação Científica - LNCC, Petrópolis-RJ, Brasil.
 
 `2025`
 
